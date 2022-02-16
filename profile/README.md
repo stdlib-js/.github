@@ -22,9 +22,9 @@ limitations under the License.
 
 stdlib ([/ˈstændərd lɪb/][ipa-english] "standard lib") is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing applications. The library provides a collection of robust, high performance libraries for mathematics, statistics, data processing, streams, and more and includes many of the utilities you would expect from a standard library.
 
-Development of the project happens in the pinned [stdlib repository][stdlib-repository], which contains the source code for the library, its tooling, and documentation. It is also the place to file bug reports and feature requests.
+Development of the project happens in the pinned [stdlib repository][stdlib-repository], which contains library source code, tooling, and documentation. The pinned [stdlib repository][stdlib-repository] is also the place to file bug reports and feature requests.
 
-stdlib is designed to allow decomposition of the main project into individual packages that can be independently consumed. The GitHub organization contains individual repositories for each stdlib package, which also come with pre-built package bundles for use in the browser, Node.js, and other environments such as Deno. See the [user stories section][user-stories] in the main project repository's `README.md` for guidance on how to make best use of stdlib given your specific needs. 
+The main stdlib project decomposes into individual packages that can be independently consumed. The GitHub organization contains individual repositories for each stdlib package. These repositories come with pre-built package bundles for use in the browser, Node.js, and other environments, such as Deno. See the [user stories section][user-stories] in the main project repository's `README.md` for guidance on how to make best use of stdlib given your specific needs. 
 
 #### Community
 
