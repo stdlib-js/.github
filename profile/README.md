@@ -24,7 +24,7 @@ stdlib ([/ˈstændərd lɪb/][ipa-english] "standard lib") is a standard library
 
 Development of the project happens in the pinned [stdlib repository][stdlib-repository], which contains library source code, tooling, and documentation. The pinned [stdlib repository][stdlib-repository] is also the place to file bug reports and feature requests.
 
-The main stdlib project decomposes into individual packages that can be independently consumed. The GitHub organization contains individual repositories for each stdlib package. Each individual package repository contains pre-built package bundles for use in the browser, Node.js, and other environments, such as Deno. See the [user stories section][user-stories] in the main project repository's `README.md` for guidance on how to make best use of stdlib given your specific needs. 
+The main stdlib project decomposes into individual packages that can be independently consumed. The GitHub organization contains individual repositories for each stdlib package, with each package repository containing pre-built package bundles for use in the browser, Node.js, and other environments, such as Deno. See the [user stories section][user-stories] in the main project repository's `README.md` for guidance on how to make best use of stdlib given your specific needs. 
 
 #### Community
 
