@@ -29,7 +29,7 @@ limitations under the License.
 
 > Community health files for for [stdlib][stdlib], a standard library for JavaScript and Node.js.
 
-stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more. This is the GitHub repository for the stdlib website.
+stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more. This is the GitHub repository for stdlib's default community health files.
 
 For information on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -41,7 +41,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
